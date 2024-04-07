@@ -65,3 +65,5 @@ if __name__ == '__main__':
             time.sleep(8)
 # sptext()
 # speechtx(sptext())
+
+'''Install requirement.txt and launch this main.py with python'''
